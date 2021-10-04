@@ -1,0 +1,15 @@
+/Users/neha.melville/Desktop/Repo/MethodsWithLoopsAndConditionals/MethodsWithLoopsAndConditionals/bin/Debug/net5.0/MethodsWithLoopsAndConditionals.deps.json
+/Users/neha.melville/Desktop/Repo/MethodsWithLoopsAndConditionals/MethodsWithLoopsAndConditionals/bin/Debug/net5.0/MethodsWithLoopsAndConditionals.runtimeconfig.json
+/Users/neha.melville/Desktop/Repo/MethodsWithLoopsAndConditionals/MethodsWithLoopsAndConditionals/bin/Debug/net5.0/MethodsWithLoopsAndConditionals.runtimeconfig.dev.json
+/Users/neha.melville/Desktop/Repo/MethodsWithLoopsAndConditionals/MethodsWithLoopsAndConditionals/bin/Debug/net5.0/MethodsWithLoopsAndConditionals.dll
+/Users/neha.melville/Desktop/Repo/MethodsWithLoopsAndConditionals/MethodsWithLoopsAndConditionals/bin/Debug/net5.0/ref/MethodsWithLoopsAndConditionals.dll
+/Users/neha.melville/Desktop/Repo/MethodsWithLoopsAndConditionals/MethodsWithLoopsAndConditionals/bin/Debug/net5.0/MethodsWithLoopsAndConditionals.pdb
+/Users/neha.melville/Desktop/Repo/MethodsWithLoopsAndConditionals/MethodsWithLoopsAndConditionals/obj/Debug/net5.0/MethodsWithLoopsAndConditionals.csproj.AssemblyReference.cache
+/Users/neha.melville/Desktop/Repo/MethodsWithLoopsAndConditionals/MethodsWithLoopsAndConditionals/obj/Debug/net5.0/MethodsWithLoopsAndConditionals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neha.melville/Desktop/Repo/MethodsWithLoopsAndConditionals/MethodsWithLoopsAndConditionals/obj/Debug/net5.0/MethodsWithLoopsAndConditionals.AssemblyInfoInputs.cache
+/Users/neha.melville/Desktop/Repo/MethodsWithLoopsAndConditionals/MethodsWithLoopsAndConditionals/obj/Debug/net5.0/MethodsWithLoopsAndConditionals.AssemblyInfo.cs
+/Users/neha.melville/Desktop/Repo/MethodsWithLoopsAndConditionals/MethodsWithLoopsAndConditionals/obj/Debug/net5.0/MethodsWithLoopsAndConditionals.csproj.CoreCompileInputs.cache
+/Users/neha.melville/Desktop/Repo/MethodsWithLoopsAndConditionals/MethodsWithLoopsAndConditionals/obj/Debug/net5.0/MethodsWithLoopsAndConditionals.dll
+/Users/neha.melville/Desktop/Repo/MethodsWithLoopsAndConditionals/MethodsWithLoopsAndConditionals/obj/Debug/net5.0/ref/MethodsWithLoopsAndConditionals.dll
+/Users/neha.melville/Desktop/Repo/MethodsWithLoopsAndConditionals/MethodsWithLoopsAndConditionals/obj/Debug/net5.0/MethodsWithLoopsAndConditionals.pdb
+/Users/neha.melville/Desktop/Repo/MethodsWithLoopsAndConditionals/MethodsWithLoopsAndConditionals/obj/Debug/net5.0/MethodsWithLoopsAndConditionals.genruntimeconfig.cache
