@@ -21,13 +21,13 @@ namespace MethodsWithLoopsAndConditionals
         public static void PrintNumbers()
         {
            
-            int num = -1000;
+            int num = 1000;
             do
             {
-                Console.Write(num);
-                num++;
+                Console.WriteLine(num);
+                num--;
 
-            } while (num<=1000);
+            } while (num>=-1000);
         }
 
         public static void PrintNumbersSkipBy3()
@@ -63,7 +63,7 @@ namespace MethodsWithLoopsAndConditionals
         {
             Console.Write("Enter a vaild number : ");
             //int num = Convert.ToInt32(Console.ReadLine());
-            bool success = int.TryParse(Console.ReadLine(), out int num);
+            bool success = float.TryParse(Console.ReadLine(), out float num);
             if (success)
             {
                 if (num > 0)
